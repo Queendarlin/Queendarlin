@@ -2,17 +2,14 @@
 
 <p style="color: purple;">I'm a passionate Full-stack Developer and Technical Writer with expertise in HTML/CSS, JavaScript, C, and Python. I love crafting intuitive user experiences (UI/UX).</p>
 
-<style>
-@keyframes dance {
-  0% { transform: translateX(0); }
-  50% { transform: translateX(10px); }
-  100% { transform: translateX(0); }
-}
-h1 {
-  color: red;
-  animation: dance 1s infinite;
-}
-</style>
+<p style="color: blue; display: inline-block; animation: dance 1s infinite;">
+  I'm a passionate Full-stack Developer and Technical Writer with expertise in Golang, HTML/CSS, JavaScript, C, and Python. I love crafting intuitive user experiences (UI/UX) and have a keen interest in web development concepts such as REST, APIs, CORS, and HTTP methods.
+</p>
+
+<img src="https://github.com/queendarlin/queendarlin/blob/main/assets/dance-keyframes.gif" alt="dance keyframes" style="display: none;">
+
+## Skills
+
 
 ## Skills
 
