@@ -1,17 +1,15 @@
 # Hi there, I'm <span style="color:blue;">Queendarlin Nnamani</span> 👋
 
-<p style="color: purple;">I'm a passionate Full-stack Developer and Technical Writer with expertise in HTML/CSS, JavaScript, C, and Python. I love crafting intuitive user experiences (UI/UX).</p>
 
 <p style="color: blue; display: inline-block; animation: dance 1s infinite;">
-  I'm a passionate Full-stack Developer and Technical Writer with expertise in Golang, HTML/CSS, JavaScript, C, and Python. I love crafting intuitive user experiences (UI/UX) and have a keen interest in web development concepts such as REST, APIs, CORS, and HTTP methods.
+  I'm a passionate Full-stack Developer and Technical Writer with expertise in Golang, HTML/CSS, JavaScript, C, and Python. I love crafting intuitive user experiences (UI/UX)
 </p>
 
-<img src="https://github.com/queendarlin/queendarlin/blob/main/assets/dance-keyframes.gif" alt="dance keyframes" style="display: none;">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/your-profile-pic.png" alt="Profile Picture" width="150" />
+</p>
 
-## Skills
-
-
-## Skills
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
