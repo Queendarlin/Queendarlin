@@ -1,8 +1,6 @@
 # Hi there, I'm `Queendarlin Nnamani` 👋
 
-<p style="display: inline-block;">
-I'm a passionate Full-stack Developer and Technical Writer with expertise in Golang, HTML/CSS, JavaScript, C, and Python. I love crafting intuitive user experiences (UI/UX) ✨
-</p>
+### I'm a passionate Full-stack Developer and Technical Writer with expertise in Golang, HTML/CSS, JavaScript, C, and Python. I love crafting intuitive user experiences (UI/UX) ✨
 
 ## Tech Stack
 
@@ -26,9 +24,26 @@ A task management app with a touch of glamor. Built with Python (Flask), HTML, C
 
 ## Articles
 
+## Articles
+
 - [Using the Pen Tool in Figma](https://blog.openreplay.com/using-the-pen-tool-in-figma/)
 - [Fundamentals of Typography for UI Design](https://blog.openreplay.com/fundamentals-of-typography-for-ui-design/)
 - [Plan Your UI with Figma](https://blog.openreplay.com/plan-your-ui-with-figma/)
+- [Designing Accessible Websites for the Visually Impaired](https://blog.openreplay.com/designing-accessible-websites-for-the-visually-impaired/)
+- [The Best No-Code Development Tools for Developers](https://blog.openreplay.com/the-best-no-code-development-tools-for-developers/)
+- [Working with the CSS Box Model](https://blog.openreplay.com/working-with-the-css-box-model/)
+- [Mastering Border Images in CSS](https://blog.openreplay.com/mastering-border-images-in-css/)
+- [Advance Your Website’s SEO with HTML](https://blog.openreplay.com/advance-your-websites-seo-with-html/)
+- [Creating Accordions with Just HTML and CSS](https://blog.openreplay.com/creating-accordions-with-just-html-and-css/)
+- [Using Icons in Web Development](https://blog.openreplay.com/using-icons-in-web-development/)
+- [Building a Drawing Application with HTML5 Canvas](https://blog.openreplay.com/building-a-drawing-application-with-html5-canvas/)
+- [Jamstack: The Future of Ecommerce Development](https://blog.openreplay.com/jamstack--the-future-of-ecommerce-development/)
+- [The Power of Nesting in CSS](https://blog.openreplay.com/the-power-of-nesting-in-css/)
+- [Selective Styling in CSS with the :not() Pseudo-Class](https://blog.openreplay.com/selective-styling-in-css-with-the-not-pseudoclass/)
+- [Mastering the Art of Background Styling](https://blog.openreplay.com/mastering-the-art-of-background-styling/)
+- [Fundamentals of the CSS Float and Clear Properties](https://code.pieces.app/blog/fundamentals-of-the-css-float-and-clear-properties)
+- [Choosing Colors in User Interface Design](https://code.pieces.app/blog/choosing-colors-in-user-interface-design)
+- [Using CSS Flexbox in Building Layouts](https://code.pieces.app/blog/using-css-flexbox-in-building-layouts)
 
 ## 📫 Connect with Me
 
