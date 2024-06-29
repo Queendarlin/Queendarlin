@@ -21,6 +21,7 @@
 ### 🌐 [TaskGlam](https://taskglamapp.onrender.com)
 A task management app with a touch of glamor. Built with Python (Flask), HTML, CSS, JavaScript, and SQLite.
 
+
 ## 📚 Articles
 
 - [Using the Pen Tool in Figma](https://blog.openreplay.com/using-the-pen-tool-in-figma/)
@@ -42,10 +43,17 @@ A task management app with a touch of glamor. Built with Python (Flask), HTML, C
 - [Choosing Colors in User Interface Design](https://code.pieces.app/blog/choosing-colors-in-user-interface-design)
 - [Using CSS Flexbox in Building Layouts](https://code.pieces.app/blog/using-css-flexbox-in-building-layouts)
 
+
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/queendarlin-nnamani/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/QOdinaka)
+
+
+## Contact Me
+*Email:* **queendarlinnnamani@gmail.com**
+*Phone:* **+2348065326511**
+
 
 ## GitHub Stats
 
