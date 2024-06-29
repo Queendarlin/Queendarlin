@@ -1,4 +1,4 @@
-# Hi there, I'm `Queendarlin Nnamani` 👋
+# Hi there, I'm **`Queendarlin Nnamani`** 👋
 
 ### I'm a passionate Full-stack Developer and Technical Writer with expertise in JavaScript, C, Python, and HTML/CSS. I love crafting intuitive user experiences (UI/UX) ✨
 
