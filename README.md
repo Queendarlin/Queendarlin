@@ -45,6 +45,7 @@ A personal portfolio website to showcase my projects and articles.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=queendarlin&layout=compact&theme=radical)
 
-## GitHub Activity Graph
+## GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=queendarlin&theme=dracula)
+Check out my activity on GitHub! [[GitHub](https://github.com/Queendarlin)]
+
