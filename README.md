@@ -5,10 +5,6 @@
   I'm a passionate Full-stack Developer and Technical Writer with expertise in Golang, HTML/CSS, JavaScript, C, and Python. I love crafting intuitive user experiences (UI/UX)
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-profile-pic.png" alt="Profile Picture" width="150" />
-</p>
-
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
