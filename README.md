@@ -21,10 +21,7 @@
 ### 🌐 [TaskGlam](https://taskglamapp.onrender.com)
 A task management app with a touch of glamor. Built with Python (Flask), HTML, CSS, JavaScript, and SQLite.
 
-
-## Articles
-
-## Articles
+## 📚 Articles
 
 - [Using the Pen Tool in Figma](https://blog.openreplay.com/using-the-pen-tool-in-figma/)
 - [Fundamentals of Typography for UI Design](https://blog.openreplay.com/fundamentals-of-typography-for-ui-design/)
