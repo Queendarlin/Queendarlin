@@ -51,8 +51,8 @@ A task management app with a touch of glamor. Built with Python (Flask), HTML, C
 
 
 ## Contact Me
-*Email:* **queendarlinnnamani@gmail.com**
-*Phone:* **+2348065326511**
+- *Email:* **queendarlinnnamani@gmail.com**
+- *Phone:* **+2348065326511**
 
 
 ## GitHub Stats
