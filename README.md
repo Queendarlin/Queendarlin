@@ -20,11 +20,9 @@ I'm a passionate Full-stack Developer and Technical Writer with expertise in Gol
 
 ## 🔭 Projects
 
-### [TaskGlam](https://taskglamapp.onrender.com)
+### 🌐 [TaskGlam](https://taskglamapp.onrender.com)
 A task management app with a touch of glamor. Built with Python (Flask), HTML, CSS, JavaScript, and SQLite.
 
-### 🌐 Portfolio Website
-A personal portfolio website to showcase my projects and articles.
 
 ## Articles
 
@@ -47,5 +45,4 @@ A personal portfolio website to showcase my projects and articles.
 
 ## GitHub Activity
 
-Check out my activity on GitHub! [[GitHub](https://github.com/Queendarlin)]
-
+![GitHub Activity Graph](https://github-readme-streak-stats.herokuapp.com/?user=queendarlin&theme=dracula)
